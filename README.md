@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/134159137?v=4" alt="Younis Profile Picture" width="180" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjAxZnBpYnJscDViODI1N2Y2OXFicXkwZW5yOG9udmt5NDZmOXF1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="Younis Profile Picture" width="180" />
 </p>
 
 <p align="center">
