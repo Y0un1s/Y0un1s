@@ -16,8 +16,8 @@
     <summary><h1 style="display: inline-block">Hello, I'm Ahmed Younis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></summary>
   </ul>
 </div>
-Enthusiastic Data Engineer with hands-on training in cloud and big-data technologies. Skilled in SQL, Python, PySpark, Microsoft Fabric, and ETL/data ingestion patterns. Experienced building scalable serverless pipelines, infrastructure-as-code, and CI/CD deployments. Looking for my first professional role where I can contribute to data platform development, pipeline automation, and reliable data delivery.
-
+Enthusiastic Data Engineer building scalable Data Lakehouses and Serverless pipelines.
+Experienced in IaC (Terraform), CI/CD, and ML production. Skilled in Python, SQL, Spark, and automating cloud systems on Azure Fabric, GCP, and AWS. Microsoft Certified: Fabric Data Engineer Associate.
 ---
 
 ## Quick Summary
