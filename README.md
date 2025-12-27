@@ -18,6 +18,7 @@
 </div>
 Enthusiastic Data Engineer building scalable Data Lakehouses and Serverless pipelines.
 Experienced in IaC (Terraform), CI/CD, and ML production. Skilled in Python, SQL, Spark, and automating cloud systems on Azure Fabric, GCP, and AWS. Microsoft Certified: Fabric Data Engineer Associate.
+
 ---
 
 ## Quick Summary
